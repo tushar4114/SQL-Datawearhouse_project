@@ -1,0 +1,7 @@
+Create DATABASE Datawearhouse;
+USE DataWarehouse;
+CREATE SCHEMA Bronze;
+
+CREATE SCHEMA Silver;
+
+CREATE SCHEMA Gold;
